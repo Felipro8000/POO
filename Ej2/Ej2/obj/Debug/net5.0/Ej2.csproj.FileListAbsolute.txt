@@ -1,0 +1,30 @@
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.exe
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.deps.json
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.runtimeconfig.json
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.runtimeconfig.dev.json
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.dll
+C:/Users/Estudiante/source/repos/Ej2/Ej2/bin/Debug/net5.0/Ej2.pdb
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.AssemblyInfoInputs.cache
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.AssemblyInfo.cs
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.csproj.CoreCompileInputs.cache
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.dll
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/refint/Ej2.dll
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.pdb
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/Ej2.genruntimeconfig.cache
+C:/Users/Estudiante/source/repos/Ej2/Ej2/obj/Debug/net5.0/ref/Ej2.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2.deps.json
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2.runtimeconfig.json
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2.runtimeconfig.dev.json
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/bin/Debug/net5.0/Ej2.pdb
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.AssemblyInfoInputs.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.AssemblyInfo.cs
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/refint/Ej2.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.pdb
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/Ej2.genruntimeconfig.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej2/Ej2/obj/Debug/net5.0/ref/Ej2.dll

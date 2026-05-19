@@ -1,0 +1,14 @@
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.AssemblyInfoInputs.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.AssemblyInfo.cs
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/bin/Debug/net10.0/Ej3
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/bin/Debug/net10.0/Ej3.deps.json
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/bin/Debug/net10.0/Ej3.runtimeconfig.json
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/bin/Debug/net10.0/Ej3.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/bin/Debug/net10.0/Ej3.pdb
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/refint/Ej3.dll
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.pdb
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/Ej3.genruntimeconfig.cache
+/home/felipe/Desktop/Adaptación al ambiente de trabajiño/Ej3/obj/Debug/net10.0/ref/Ej3.dll
