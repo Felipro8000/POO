@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|c:\\users\\estudiante\\desktop\\6to a\u00F1o\\poo\\ej6\\ej6\\mano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|solutionrelative:ej6\\mano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|c:\\users\\estudiante\\desktop\\6to a\u00F1o\\poo\\ej6\\ej6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|solutionrelative:ej6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|c:\\users\\estudiante\\desktop\\6to a\u00F1o\\poo\\ej6\\ej6\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|solutionrelative:ej6\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|c:\\users\\estudiante\\desktop\\6to a\u00F1o\\poo\\ej6\\ej6\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65418AAD-0298-4E4A-9074-72116690675D}|Ej6\\Ej6.csproj|solutionrelative:ej6\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mano.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Mano.cs",
+              "RelativeDocumentMoniker": "Ej6\\Mano.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Mano.cs",
+              "RelativeToolTip": "Ej6\\Mano.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:21:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mazo.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Mazo.cs",
+              "RelativeDocumentMoniker": "Ej6\\Mazo.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Mazo.cs",
+              "RelativeToolTip": "Ej6\\Mazo.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:34:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Carta.cs",
+              "RelativeDocumentMoniker": "Ej6\\Carta.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Carta.cs",
+              "RelativeToolTip": "Ej6\\Carta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:25:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Program.cs",
+              "RelativeDocumentMoniker": "Ej6\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\6to a\u00F1o\\POO\\Ej6\\Ej6\\Program.cs",
+              "RelativeToolTip": "Ej6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:11:47.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
